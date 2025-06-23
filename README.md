@@ -1,6 +1,6 @@
 # Retail-Time-Series-Forecast-Engine
 
-•	Total Rows: 9995
+•	Total Rows: 9995__
 •	Total Attributes: 21
 •	Column Names: Order Id, Order Data, Ship Date, Sales, Quantity, Discount, Profit, Returned
 
