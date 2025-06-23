@@ -1,14 +1,14 @@
 # Retail-Time-Series-Forecast-Engine
 
 •	Total Rows: 9995\
-•	Total Attributes: 21
+•	Total Attributes: 21\
 •	Column Names: Order Id, Order Data, Ship Date, Sales, Quantity, Discount, Profit, Returned
 
 ## Problem Statement 
 
-•	What is common shipping mode preferred?
-•	What segmentation gives more profit to store?
-•	Which state(city) specifically should store invest more?
+•	What is common shipping mode preferred?\
+•	What segmentation gives more profit to store?\
+•	Which state(city) specifically should store invest more?\
 •	Forecasting future profit estimates for different categories
 
 ---
